@@ -1,4 +1,4 @@
-# Hi there, I'm [Muneeb] 👋
+# Hi there, I'm dev-muneeb 👋
 
 ### 🚀 Full Stack Developer | MERN Stack
 
